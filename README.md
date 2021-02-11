@@ -175,7 +175,7 @@ $ brew upgrade rbenv ruby-build
     ~~~ sh
     $ sudo apt install rbenv
     ~~~
-- **Arch Linux and it's derivatives**
+- **Arch Linux and its derivatives**
 
   Archlinux has an [AUR Package](https://aur.archlinux.org/packages/rbenv/) for
   rbenv and you can install it from the AUR using the instructions from this
@@ -433,7 +433,7 @@ uninstall from the system.
         
         `sudo apt purge rbenv`
   
-  - Archlinux and it's derivatives:
+  - Archlinux and its derivatives:
   
           `sudo pacman -R rbenv`
 
